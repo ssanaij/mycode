@@ -2,6 +2,7 @@ import time
 import pyupbit
 import datetime
 
+# 형석
 access = "U9kcbBExlwCxevY5hVfsxYH633p5xDogcUqoC5Sl"
 secret = "A5zzKBZxNVv9hMVcM86ztdLqfMxc5GfHoP47xVqw"
 
